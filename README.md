@@ -1,7 +1,7 @@
-- 👋 Hey, I’m @TimYen4204
-- 👀 I’m interested in coding, I think it's quite cool
-- 🌱 I’m currently learning as much as possible
-- 💞️ I’m looking to collaborate on projects with friends C:
-- 📫 Reach me by...
+- 👋 Hello! My name's Tim
+- 👀 I’m interested in coding, I love, puzzles and problem solving.
+- 🌱 I’m currently learning as much as possible.
+- 💞️ I’m looking to collaborate on projects with people and friends!
+- 📫 Reach me by ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ✨I like running!✨
